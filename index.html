@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KKN Desa Wangunsari</title>
+    <script src="https://cdn.tailwindcss.com" rel="stylesheet"></script>
+    <script src="src/navbar.js">
+      navbar();
+      nav();
+    </script>
+    <link
+      href="https://fonts.googleapis.com/css?family=Poppins"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <style>
+      /* poppins-regular - latin */
+      @font-face {
+        font-family: "Poppins";
+        font-style: normal;
+        font-weight: 400;
+        src: url("../fonts/poppins-v15-latin-regular.eot"); /* IE9 Compat Modes */
+        src: local(""),
+          url("../fonts/poppins-v15-latin-regular.eot?#iefix")
+            format("embedded-opentype"),
+          /* IE6-IE8 */ url("../fonts/poppins-v15-latin-regular.woff2")
+            format("woff2"),
+          /* Super Modern Browsers */
+            url("../fonts/poppins-v15-latin-regular.woff") format("woff"),
+          /* Modern Browsers */ url("../fonts/poppins-v15-latin-regular.ttf")
+            format("truetype"),
+          /* Safari, Android, iOS */
+            url("../fonts/poppins-v15-latin-regular.svg#Poppins") format("svg"); /* Legacy iOS */
+      }
+    </style>
+  </head>
+  <body class="bg-[#F4D9A6] font-['Poppins']">
+    <script>
+      function nav() {
+        // Function to toggle the visibility of the dropdown menu
+        function toggleDropdown() {
+          const hamburger = document.getElementById("navbar-hamburger");
+          hamburger.classList.toggle("hidden");
+        }
+
+        // Get the hamburger button element
+        const hamburgerButton = document.querySelector(
+          '[data-collapse-toggle="navbar-hamburger"]'
+        );
+
+        // Add click event listener to the hamburger button
+        hamburgerButton.addEventListener("click", toggleDropdown);
+
+        nav();
+      }
+    </script>
+
+    <nav class="border-gray-200 bg-[#10482A] drop-shadow-xl">
+      <div
+        class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
+      >
+        <a href="#" class="flex items-center">
+          <img src="img/logo.png" class="h-8 mr-3" alt="KKN Logo" />
+          <div class="text-2xl max-[767px]:text-lg">
+            <span
+              class="self-center font-semibold whitespace-nowrap text-white hover:text-[#F4D9A6]"
+              >KKN Desa Wangunsari</span
+            >
+          </div>
+        </a>
+        <button
+          data-collapse-toggle="navbar-default"
+          type="button"
+          class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
+          aria-controls="navbar-default"
+          aria-expanded="false"
+        >
+          <span class="sr-only">Open main menu</span>
+          <svg
+            class="w-5 h-5"
+            aria-hidden="true"
+            xmlns="http://www.w3.org/2000/svg"
+            fill="none"
+            viewBox="0 0 17 14"
+          >
+            <path
+              stroke="currentColor"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="2"
+              d="M1 1h15M1 7h15M1 13h15"
+            />
+          </svg>
+        </button>
+        <div class="hidden w-full md:block md:w-auto" id="navbar-default">
+          <ul
+            class="font-medium flex flex-col p-4 md:p-0 mt-4 border border-gray-100 rounded-lg md:flex-row md:space-x-8 md:mt-0 md:border-0 text-white"
+          >
+            <li>
+              <a
+                href="#"
+                class="block py-2 pl-3 pr-4 text-white bg-[#10482A] rounded md:bg-transparent md:text-[#F4D9A6] hover:text-white md:p-0"
+                aria-current="page"
+                >Home</a
+              >
+            </li>
+            <li>
+              <a
+                href="#"
+                class="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-500 md:p-0"
+                >About</a
+              >
+            </li>
+            <li>
+              <a
+                href="#"
+                class="block py-2 pl-3 pr-4 text-white rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-gray-500 md:p-0"
+                >Contact</a
+              >
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <footer class="bg-[#10482A] py-6">
+      <div class="container mx-auto">
+        <p class="text-white font-bold text-center">Text footer</p>
+      </div>
+    </footer>
+  </body>
+</html>
