@@ -57,6 +57,14 @@ function navi() {
                 >About</a
                 >
             </li>
+            </li>
+            <li>
+                <a
+                href="#"
+                class="block py-2 pl-3 pr-4 text-white rounded hover:bg-[#F4D9A6] md:hover:bg-transparent md:border-0 md:hover:text-[#F4D9A6] md:p-0"
+                >Post</a
+                >
+            </li>
             <li>
                 <a
                 href="#"

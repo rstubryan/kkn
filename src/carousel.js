@@ -5,15 +5,15 @@ function car() {
     <section id="carousel">
       <div
         id="default-carousel"
-        class="relative w-full container mx-auto"
+        class="relative w-full mx-auto"
         data-carousel="slide"
       >
         <!-- Carousel wrapper -->
-        <div class="relative h-56 overflow-hidden rounded-lg md:h-96">
+        <div class="relative h-56 overflow-hidden md:h-96">
           <!-- Item 1 -->
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="img/logo.png"
+              src="img/1.jpg"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -21,7 +21,7 @@ function car() {
           <!-- Item 2 -->
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="img/logo1.png"
+              src="img/2.jpg"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -29,7 +29,7 @@ function car() {
           <!-- Item 3 -->
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
-              src="img/logo.png"
+              src="img/3.jpg"
               class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
               alt="..."
             />
@@ -43,6 +43,206 @@ function car() {
             />
           </div>
           <!-- Item 5 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 6 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/1.jpg"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 7 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 8 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 9 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 10 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 11 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 12 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/1.jpg"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 13 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 14 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 15 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 16 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 17 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/1.jpg"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 18 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 19 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 20 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 21 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 22 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/1.jpg"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 23 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 24 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 25 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 26 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 27 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 28 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 29 -->
+          <div class="hidden duration-700 ease-in-out" data-carousel-item>
+            <img
+              src="img/logo1.png"
+              class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"
+              alt="..."
+            />
+          </div>
+          <!-- Item 30 -->
           <div class="hidden duration-700 ease-in-out" data-carousel-item>
             <img
               src="img/logo.png"
