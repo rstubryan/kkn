@@ -7,7 +7,7 @@ function navi() {
         >
         <a href="index.html" class="flex items-center">
             <img src="img/logo.png" class="h-8 mr-3" alt="KKN Logo" />
-            <div class="text-2xl max-[767px]:text-lg">
+            <div class="md:text-2xl text-lg">
             <span
                 class="self-center font-semibold whitespace-nowrap text-white hover:text-[#F4D9A6]"
                 >KKN Desa Wangunsari</span

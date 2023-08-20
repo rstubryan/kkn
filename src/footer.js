@@ -3,7 +3,7 @@ function foot() {
   <footer class="bg-[#10482A]" id="foot">
   <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
     <div class="md:flex md:justify-between">
-      <div class="mb-6 md:mb-0 max-[767px]:hidden">
+      <div class="mb-6 md:mb-0 md:block hidden">
         <a
           href="https://www.instagram.com/kkn_desawangunsari/"
           target="_blank"
@@ -11,7 +11,7 @@ function foot() {
         >
           <img src="img/logo.png" class="h-8 mr-3" alt="KKN Logo" />
           <span
-            class="self-center text-2xl max-[767px]:text-lg font-semibold whitespace-nowrap text-white hover:text-[#F4D9A6]"
+            class="self-center md:text-2xl text-lg font-semibold whitespace-nowrap text-white hover:text-[#F4D9A6]"
             >@kkn_desawangunsari</span
           >
         </a>
@@ -81,7 +81,7 @@ function foot() {
     <div class="sm:flex sm:items-center sm:justify-between">
       <span class="text-sm text-white sm:text-center"
         >© 2023
-        <a href="index.html" target="_blank" class="hover:underline"
+        <a href="index.html" class="hover:underline"
           >KKN Desa Wangunsari</a
         >. All Rights Reserved.
       </span>
