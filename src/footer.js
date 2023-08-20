@@ -32,7 +32,7 @@ function foot() {
             </li>
             <li>
               <a
-                href="#"
+                href="https://rstubryan.github.io/pariwisata/"
                 target="_blank"
                 class="hover:underline hover:text-white"
                 >Website Pariwisata
@@ -54,7 +54,11 @@ function foot() {
               >
             </li>
             <li>
-              <a href="#" target="_blank" class="hover:underline">TikTok</a>
+              <a href="https://www.tiktok.com/@kkn.desa.wangunsa"
+              target="_blank" 
+              class="hover:underline"
+              >TikTok</a
+              >
             </li>
           </ul>
         </div>
