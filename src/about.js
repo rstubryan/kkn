@@ -12,40 +12,9 @@ function abt() {
 
     <div class="container mx-auto rounded-3xl bg-[#10482A] py-4 w-[1100px]">
       <div class="w-[1000px] container mx-auto">
-        <p class="mb-3 text-white md:text-base text-xs md:text-start text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat
-          odit dignissimos explicabo inventore perspiciatis quis quibusdam
-          ipsum vel? Earum dolorem dicta vitae aperiam animi vero velit itaque
-          quas quaerat vel.
-        </p>
-        <div class="md:grid md:grid-cols-1 md:gap-6 sm:grid-cols-3">
-          <div class="col-span-2">
-            <p class="mb-3 text-white md:text-base text-xs md:text-start text-center">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Aspernatur incidunt repellat fugiat vitae, numquam nisi quam
-              fuga harum unde quaerat quae, veniam, ullam deserunt autem cum
-              minima laborum voluptatem dolore?
-            </p>
-            <p class="mb-3 text-white md:text-base text-xs md:text-start text-center">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Mollitia, quia? Fugit dolores vero quis quasi. Earum magnam,
-              nemo temporibus aspernatur ab sapiente quae reiciendis eaque
-              quas nihil, omnis quasi reprehenderit.
-            </p>
-          </div>
-          <p class="mb-3 text-white md:text-base text-xs md:text-start text-center">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-            asperiores error nulla odit assumenda cum deserunt, nesciunt
-            accusantium reprehenderit et velit dolores ipsa fugiat sequi
-            numquam tenetur quae doloremque blanditiis.
-          </p>
-        </div>
-        <p class="mb-3 text-white md:text-base text-xs md:text-start text-center">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque
-          quasi velit laborum adipisci consequatur molestiae. Quae culpa iste
-          tenetur unde ratione nesciunt labore, cupiditate dolor temporibus
-          sequi corrupti rem. Excepturi!
-        </p>
+      <p class="mb-3 text-lg text-white md:text-xl text-center">KKN di Desa Wangunsari</p>
+      <p class="text-white">Desa Wangunsari merupakan</p>
+      <p class="mb-3 text-right text-white">Desa Wangunsari merupakan</p>
       </div>
     </div>
   </section>
