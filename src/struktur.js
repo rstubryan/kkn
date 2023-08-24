@@ -12,7 +12,7 @@ function strktr() {
       </div>
       <div class="container mx-auto">
         <div class="mb-4 md:border-b">
-          <div class="bg-black">
+          <div class="bg-[#10482A] rounded-3xl">
             <ul
               class="flex flex-wrap -mb-px text-sm font-medium text-center"
               id="myTab"
