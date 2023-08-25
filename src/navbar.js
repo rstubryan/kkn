@@ -53,7 +53,7 @@ function navi() {
             <li>
                 <a
                 href="#about"
-                class="block py-2 pl-3 pr-4 text-white rounded hover:bg-[#F4D9A6] md:hover:bg-transparent md:border-0 md:hover:text-[#F4D9A6] md:p-0"
+                class="block py-2 pl-3 pr-4 text-white rounded bg-[#10482A] md:hover:bg-transparent md:border-0 md:hover:text-[#F4D9A6] md:p-0"
                 >About</a
                 >
             </li>
@@ -61,21 +61,21 @@ function navi() {
             <li>
                 <a
                 href="#struktur"
-                class="block py-2 pl-3 pr-4 text-white rounded hover:bg-[#F4D9A6] md:hover:bg-transparent md:border-0 md:hover:text-[#F4D9A6] md:p-0"
+                class="block py-2 pl-3 pr-4 text-white rounded bg-[#10482A] md:hover:bg-transparent md:border-0 md:hover:text-[#F4D9A6] md:p-0"
                 >Struktur</a
                 >
             </li>
             <li>
                 <a
                 href="#post"
-                class="block py-2 pl-3 pr-4 text-white rounded hover:bg-[#F4D9A6] md:hover:bg-transparent md:border-0 md:hover:text-[#F4D9A6] md:p-0"
+                class="block py-2 pl-3 pr-4 text-white rounded bg-[#10482A] md:hover:bg-transparent md:border-0 md:hover:text-[#F4D9A6] md:p-0"
                 >Post</a
                 >
             </li>
             <li>
                 <a
                 href="#dokumentasi"
-                class="block py-2 pl-3 pr-4 text-white rounded hover:bg-[#F4D9A6] md:hover:bg-transparent md:border-0 md:hover:text-[#F4D9A6] md:p-0"
+                class="block py-2 pl-3 pr-4 text-white rounded bg-[#10482A] md:hover:bg-transparent md:border-0 md:hover:text-[#F4D9A6] md:p-0"
                 >Dokumentasi</a
                 >
             </li>
