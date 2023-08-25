@@ -68,12 +68,12 @@ function foot() {
           </h2>
           <ul class="text-white font-medium">
             <li class="mb-4">
-              <a href="#" target="_blank" class="hover:underline"
+              <a href="#" class="hover:underline"
                 >Privacy Policy</a
               >
             </li>
             <li>
-              <a href="#" target="_blank" class="hover:underline"
+              <a href="#" class="hover:underline"
                 >Terms &amp; Conditions</a
               >
             </li>
