@@ -281,10 +281,9 @@ function pst() {
     </blockquote>
     <script async src="//www.instagram.com/embed.js"></script>
   </div>
-</section>;
+</section>
 
     `;
 }
 
 pst();
-
