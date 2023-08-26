@@ -91,7 +91,7 @@ function foot() {
       </span>
       <div class="flex mt-4 space-x-5 sm:justify-center sm:mt-0">
         <a
-          href="https://github.com/rstubryan/kkn"
+          href="https://github.com/rstubryan/kkn/deployments"
           target="_blank"
           class="text-white hover:text-[#F4D9A6]"
         >
