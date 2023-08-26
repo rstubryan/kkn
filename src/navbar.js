@@ -44,7 +44,7 @@ function navi() {
             >
             <li>
                 <a
-                href="#"
+                href="#dropdown"
                 class="block py-2 pl-3 pr-4 text-[#10482A] bg-[#F4D9A6] rounded md:bg-transparent md:text-[#F4D9A6] hover:text-white md:p-0"
                 aria-current="page"
                 >Home</a
