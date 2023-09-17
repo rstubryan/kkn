@@ -642,7 +642,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/arigi.jpg"
                     alt=""
                   />
                 </a>
