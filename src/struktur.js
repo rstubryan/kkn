@@ -154,7 +154,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Putriana Febryani (BENDAHARA).png"
                     alt=""
                   />
                 </a>
@@ -177,7 +177,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Yulva Cintakandida (SEKRETARIS).png"
                     alt=""
                   />
                 </a>
@@ -202,7 +202,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Ai Dina Agustin (SEKRETARIS).png"
                     alt=""
                   />
                 </a>
@@ -235,7 +235,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Siti Rahmawati (DIVISI HUMAS).png"
                     alt=""
                   />
                 </a>
@@ -260,7 +260,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Arya Rexa (DIVISI HUMAS).png"
                     alt=""
                   />
                 </a>
@@ -285,7 +285,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Aprian Dani Rahmatullah (DIVISI HUMAS).png"
                     alt=""
                   />
                 </a>
@@ -310,7 +310,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Raka Adrieal Maheza (DIVISI HUMAS).png"
                     alt=""
                   />
                 </a>
@@ -343,7 +343,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Moch. Raditya Pratama (DIVISI LOGISTIK).png"
                     alt=""
                   />
                 </a>
@@ -368,7 +368,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Akbar Ilham Perhan (DIVISI LOGISTIK).png"
                     alt=""
                   />
                 </a>
@@ -393,7 +393,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Rivaldi Tresna Oktriadi (DIVISI LOGISTIK).png"
                     alt=""
                   />
                 </a>
@@ -426,7 +426,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Rifky Wahyudi (DIVISI INFOKOM).png"
                     alt=""
                   />
                 </a>
@@ -451,7 +451,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Restu Bumi Ryan Ramdhan (DIVISI INFOKOM).png"
                     alt=""
                   />
                 </a>
@@ -476,7 +476,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Sarah Puspitasari (DIVISI INFOKOM).png"
                     alt=""
                   />
                 </a>
@@ -509,7 +509,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Alief Wahyu Nugraha (DIVISI ACARA).png"
                     alt=""
                   />
                 </a>
@@ -534,7 +534,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Siti Nadhiya Ulhaq (DIVISI ACARA).png"
                     alt=""
                   />
                 </a>
@@ -559,7 +559,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Nabila Fitria (DIVISI ACARA).png"
                     alt=""
                   />
                 </a>
@@ -592,7 +592,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Leni Fajria (DIVISI KONSUMSI).png"
                     alt=""
                   />
                 </a>
@@ -617,7 +617,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Fitriyani Sri Wahyuni (DIVISI KONSUMSI).png"
                     alt=""
                   />
                 </a>
@@ -642,7 +642,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/arigi.jpg"
+                    src="img/sktr/Arigi Bukhoeri (DIVISI KONSUMSI).png"
                     alt=""
                   />
                 </a>
@@ -675,7 +675,7 @@ function strktr() {
                 <a href="#">
                   <img
                     class="rounded-t-lg"
-                    src="img/sktr/Tegar Pratama (KETUA).png"
+                    src="img/sktr/Firman Mutaqin (DOSEN PEMBIMBING LAPANGAN).png"
                     alt=""
                   />
                 </a>
